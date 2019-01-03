@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Board.h
+string
+-
+
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Computer.cpp
+Computer.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Computer.h
+
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Computer.h
+Player.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Player.h
+
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Game.cpp
+Game.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Game.h
+iostream
+-
+Board.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Board.h
+Player.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Player.h
+Computer.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Computer.h
+
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Game.h
+Game.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Game.h
+iostream
+-
+Board.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Board.h
+Player.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Player.h
+Computer.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Computer.h
+
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Player.h
+Board.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Board.h
+
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/main.cpp
+iostream
+-
+Board.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Board.h
+Player.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Player.h
+Game.h
+C:/Users/Senpai/Desktop/OOP/Gilbert Zhuo (18665576)/Game.h
+
